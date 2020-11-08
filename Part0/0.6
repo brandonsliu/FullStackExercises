@@ -1,0 +1,9 @@
+title 0.6 : New Note SPA
+
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server->browser: Status Code 201
+note over browser:
+In the single pass application, the server does not send a URL redirect, 
+so the browser simply rerenders the list without sending another GET request
+to the server
+end note
