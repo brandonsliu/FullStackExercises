@@ -1,3 +1,6 @@
+# Files used in FullStackOpen to run code in other folders 
+# The code replaces index.js
+# Don't know if this folder is actually needed but its here
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
